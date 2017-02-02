@@ -1,5 +1,7 @@
 #Stopwatch task by Jiranan Patrathamakul (5910545655)
 
+Run all of these tasks by ACER, and got these results.
+
 Task							| Time
 --------------------------------------------------------|---------------:
 Append 50,000 chars to String           		| 1.040245 sec
